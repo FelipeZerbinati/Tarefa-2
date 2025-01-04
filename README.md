@@ -31,10 +31,9 @@ This project was developed using **C#** with the main goal of practicing the **f
 ## 📂 Project Structure
 
 ```
-📁 AULA002
-│── 📂 AULA002                             # Source code files
-│── 📂 AULA002.sln                         # Visual Studio Solution
-│── 📂 Biblioteca-de-Classes-AULA002       # class' library
+📁 AULA002-2
+│── 📂 AULA002-2                           # Source code files
+│── 📂 AULA002-2.sln                       # Visual Studio Solution
 │── README.md                              # Project documentation
 ```
 
